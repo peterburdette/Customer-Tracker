@@ -1,5 +1,5 @@
 # Customer-Tracker
-The Customer Tracker records cookies and their respective values and sends them off in an event to Google Analytics. This script assists with the tracking of new and returning customer behaviors and actions.
+The Customer Tracker records cookies and their respective values and sends them off in an event to Google Analytics. This script assists with the tracking of new and returning customer behaviors and actions. All events can be seen in Google Analytics **(Behavior > Events > Top Events)**.
 
 ## Getting Started
 ### Installation
