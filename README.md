@@ -45,7 +45,7 @@ var cookie_value_1 = getCookie(cookie_name_1);
 var cookie_value_2 = getCookie(cookie_name_2); 
 ```
 
-Once you've done this find the conditional statment that sends the Google Analytics Events. Inside of the `else` statment duplicate the event and update the cookie name and cookie value in each instance to reflect the additional cookies you will be tracking. Your code should look something like this:
+Once you've done this find the conditional statment that sends the Google Analytics Events. Inside of the `else` statement duplicate the event and update the cookie name and cookie value in each instance to reflect the additional cookies you will be tracking. Your code should look something like this:
 
 ```html
 // Checks if there is a value for the declared cookie
