@@ -53,7 +53,7 @@ if (!cookie_value_1) {
 	ga('send', 'event', 'Customer-Tracker', 'Guest (Logged Out)', 'Guest'); // Sends the value of Guest (Logged Out) to GA
 } else {
 	ga('send', 'event', 'Customer-Tracker', cookie_name_1, cookie_value_1); // Sends the Cookie Name 1 and Cookie Value 1 to GA
-    ga('send', 'event', 'Customer-Tracker', cookie_name_2, cookie_value_2); // Sends the Cookie Name 2 and Cookie Value 2 to GA
+	ga('send', 'event', 'Customer-Tracker', cookie_name_2, cookie_value_2); // Sends the Cookie Name 2 and Cookie Value 2 to GA
 }
 ```
 
