@@ -71,7 +71,7 @@ Once done publish your changes and enjoy!
 
 ## Browser Support
 
-*Supported Browsers* : Chrome, Firefox, Safari, Opera, Edge, IE7+.
+*Supported Browsers* : Chrome, Firefox, Safari, Opera, Edge, IE9+.
 
 ## License
 
