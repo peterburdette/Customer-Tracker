@@ -3,10 +3,9 @@ The Customer Tracker records cookies and their respective values and sends them 
 
 ## Getting Started
 ### Installation
-Add the latest JQuery and Customer Tracker files to the header of your site.
+Add the latest Customer Tracker script to the header of your site.
 
 ```html
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="customer-tracker.js"></script>
 ```
 
