@@ -1,4 +1,4 @@
-$(document).ready(function() {
+document.addEventListener("DOMContentLoaded", function() {
 	
 	// Function to retrieve the cookie value
 	function getCookie(c_name, c_value) {
