@@ -1,3 +1,10 @@
+/*
+ @name		Customer Tracker
+ @author	Peter Burdette
+ @version	1.0
+ @license	Released under the MIT license.
+*/
+
 document.addEventListener("DOMContentLoaded", function() {
 	
 	// Function to retrieve the cookie value
